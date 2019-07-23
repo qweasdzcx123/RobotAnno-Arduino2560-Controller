@@ -4,7 +4,7 @@
 ## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/PROBOT_Anno.png)
 
 ## wiki for Robot Anno packages
-[!baidu]:(http://wiki.ros.org/Robots/PROBOT_Anno)
+[baidu]:http://wiki.ros.org/Robots/PROBOT_Anno
 
 
 CONTACT ADRESS:
