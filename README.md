@@ -7,8 +7,7 @@
 *http://wiki.ros.org/Robots/PROBOT_Anno
 
 ## controller IDE picture
-## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(1).png)
-## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(2).png)
+## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(1).png) ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(2).png)
 ## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(3).png)
 ## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(4).png)
 ## ![](https://github.com/qweasdzcx123/RobotAnno-Arduino2560-Controller/blob/master/picture/arduino1%20(5).png)
